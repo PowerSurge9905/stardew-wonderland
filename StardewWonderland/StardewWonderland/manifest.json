@@ -1,8 +1,8 @@
 {
   "Name": "Stardew Wonderland",
   "Author": "JaidenTBBM, PowerSurge05, Roselera, Spook_A_Doodle, starry.shores",
-  "Version": "0.0.0",
-  "Description": "placeholder description",
+  "Version": "0.0.1",
+  "Description": "A Stardew Valley mod that brings the Night Raven College cast into Pelican Town!",
   "UniqueID": "PowerSurge05.StardewWonderland",
   "EntryDll": "StardewWonderland.dll",
   "MinimumApiVersion": "4.5.1",
