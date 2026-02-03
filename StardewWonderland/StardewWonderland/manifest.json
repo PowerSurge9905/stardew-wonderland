@@ -1,0 +1,10 @@
+{
+  "Name": "Stardew Wonderland",
+  "Author": "JaidenTBBM, PowerSurge05, Roselera, Spook_A_Doodle, starry.shores",
+  "Version": "0.0.0",
+  "Description": "placeholder description",
+  "UniqueID": "PowerSurge05.StardewWonderland",
+  "EntryDll": "StardewWonderland.dll",
+  "MinimumApiVersion": "4.5.1",
+  "UpdateKeys":  []
+}
